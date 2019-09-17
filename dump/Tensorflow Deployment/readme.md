@@ -1,1 +1,1 @@
-# Moduleon deployment for Tensorflow - Tensorflow Lite and JS
+# Module on deployment for Tensorflow - Tensorflow Lite and JS
